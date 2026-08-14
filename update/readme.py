@@ -3,7 +3,7 @@ import os
 from datetime import datetime
 
 # Configuration
-FEED_URL = "https://example.net/feed"  # Replace with your actual feed URL
+FEED_URL = "https://qubuhub.blogpost.com"  # Replace with your actual feed URL
 README_PATH = "profile/README.md"
 MAX_POSTS = 5
 
