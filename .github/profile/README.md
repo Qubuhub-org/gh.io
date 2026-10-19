@@ -21,5 +21,5 @@ _Blog feed is not configured. Set the repository variable `BLOG_FEED_URL` to an 
 ## Profile maintenance
 
 <!-- LAST-UPDATED:START -->
-Last updated: maintained by the repository updater
+Last updated: 2026-10-19 10:57 UTC
 <!-- LAST-UPDATED:END -->
